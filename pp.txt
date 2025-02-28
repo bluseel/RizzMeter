@@ -1,0 +1,7 @@
+PP
+git init -> initializes
+git status -> see status of files
+git add -> ready a file/files for stagging
+git commit -m <"any comment"> -> commits all the files in stagging state (local)
+git branch -M main -> -M: making root branch
+git push -> pushes all files committed to github
