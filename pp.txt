@@ -6,6 +6,6 @@ git commit -m <"any comment"> -> commits all the files in stagging state (local)
 git branch -M main -> -M: making root branch
 git push -u origin main -> pushes all files committed to github
 git branch checkout -b "Branch name" -> checkouts and switches to the new branch
-
+git clone <repo link> -> clones a repo 
 
 this copy of pp.txt is for RizzOut branch
